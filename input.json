@@ -1,7 +1,7 @@
 {
 
   "sentmail": "test4anglesk@gmail.com",
-  "password": "MiddleN@mE0(",
-  "receiver_email": "mail2anglesk@gmail.com",
+  "password": "xxxxxxx",
+  "receiver_email": "xxxxxx@gmail.com",
   "url": "https://api.coingecko.com/api/v3/status_updates?project_type=coin"
 }
